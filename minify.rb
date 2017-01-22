@@ -1,3 +1,5 @@
+# Minify script version 0.3
+
 require 'fileutils'
 
 # Make or empty output dir
