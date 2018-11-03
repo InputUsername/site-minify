@@ -15,7 +15,7 @@ Cache minified CSS files locally:
 
 Maximum amount of minification attempts using https://cssminifier.com:
 ```json
-    "css_minify_attempts": 10
+"css_minify_attempts": 10
 ```
 
 HTML pages that should be minified:
