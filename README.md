@@ -22,7 +22,7 @@ HTML pages that should be minified:
 ```json
 "pages": []
 ```
-Other files that should be copied to the output directory.
+Other files that should be copied to the output directory:
 ```json
 "other": []
 ```
